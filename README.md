@@ -1,7 +1,9 @@
-Banking Project 
-Banking Project 
-Banking Project 
-Banking Project
-adding new linw 
-data 
-herer 
+Project Description file 
+# Technologies:
+  HTML
+  CSS
+  JS
+  NODE
+  PYTHON
+  DRAGON
+  
